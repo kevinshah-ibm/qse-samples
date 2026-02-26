@@ -1,0 +1,11 @@
+
+- https://github.com/open-quantum-safe
+- https://en.wikipedia.org/wiki/Advanced_Encryption_Standard
+- https://research.ibm.com/blog/nist-pqc-standards
+- https://cheatsheetseries.owasp.org/cheatsheets/Cryptographic_Storage_Cheat_Sheet.html
+- https://pkic.org/pqccm/#open-quantum-safe
+- https://openquantumsafe.org
+- https://developer.ibm.com/tutorials/awb-quantum-safe-openssl/
+- https://quantum.cloud.ibm.com/learning/en/courses/quantum-safe-cryptography/introduction-to-this-course
+- https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards
+- https://csrc.nist.gov/topics/security-and-privacy/cryptography/post-quantum-cryptography
